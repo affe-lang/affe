@@ -12,4 +12,4 @@ affe is based on [monkey](https://monkeylang.org) and [it's book](https://interp
 ### resources
 * [monkey](https://monkeylang.org)
 * [interpreter book](https://interpreterbook.com)
-* [affe's website](https://affe-lang.github.io)
+* [affe's website](https://affe-lang.github.io) (dead link)
