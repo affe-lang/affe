@@ -1,3 +1,5 @@
+<img height="200px" src="https://cdn.jsdelivr.net/gh/affe-lang/assets@master/fe%20heading.png">
+
 # affe
 
 affe is an open-source programming language
