@@ -1,3 +1,5 @@
+<img height="200px" src="https://cdn.jsdelivr.net/gh/affe-lang/assets@master/fe%20heading.png">
+
 # affe
 
 affe is an open-source programming language
@@ -12,4 +14,4 @@ affe is based on [monkey](https://monkeylang.org) and [it's book](https://interp
 ### resources
 * [monkey](https://monkeylang.org)
 * [interpreter book](https://interpreterbook.com)
-* [affe's website](https://affe-lang.github.io) (dead link)
+* [affe's website](https://affe-lang.github.io)
